@@ -23,5 +23,4 @@
   https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnvrtmd&count_bg=%23FFBD2A&title_bg=%23000000&icon=hey.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false
 </p>
  -->
- ![nvrtmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&show_icons=true&theme=vision-friendly-dark&hide=stars&custom_title=yuzamin's%20work)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
