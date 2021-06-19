@@ -37,3 +37,4 @@
 </div>
 
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=ffbd2a&height=200&section=footer)
