@@ -22,7 +22,7 @@
 <br /> 
 <h3 align="center">✉ Contact ✉</h3>
 <div align="center">
-  <a href="mmyyjjj@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mmyyjjj@naver.com"/></a>  
+  <a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mmyyjjj@naver.com"/></a>  
 </div> 
 
 <br /> 
