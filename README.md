@@ -13,9 +13,12 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp 
 </p>
-<p align="center">![nvrtmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&show_icons=true&theme=vision-friendly-dark&hide=stars&custom_title=yuzamin's%20work)
+<p align="center">
+  ![nvrtmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&show_icons=true&theme=vision-friendly-dark&hide=stars&custom_title=yuzamin's%20work)
 </p>
-<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrtmd&exclude_repo=movie-mbti&hide=shell&layout=compact)
+<p align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvrtmd&exclude_repo=movie-mbti&hide=shell&layout=compact)
 </p>
-<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnvrtmd&count_bg=%23FFBD2A&title_bg=%23000000&icon=hey.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnvrtmd&count_bg=%23FFBD2A&title_bg=%23000000&icon=hey.svg&icon_color=%23E7E7E7&title=Hello%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </p>
