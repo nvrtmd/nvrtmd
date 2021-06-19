@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ffbd2a&height=300&section=header&text=yuzamin%20&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=yuzamin%20&fontSize=80&fontAlignY=40&animation=twinkling&fontColor=ffffff)
 
 <div align="center">
   
@@ -37,4 +37,4 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=ffbd2a&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer)
