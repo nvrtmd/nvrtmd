@@ -8,6 +8,17 @@
 
 <br /> 
 
+<h3 align="center"> I am... </h3>
+<div align="center">
+  
+  
+  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
+  
+  
+</div>
+
+<br /> 
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">Tech that I've used for my projects</p>
 <p align="center">
