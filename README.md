@@ -29,7 +29,7 @@
 <br /> 
 <p align="center">Tech that I'm learning for</p>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/></a>&nbsp </p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/></a>&nbsp </p>
 <br /> 
 <h3 align="center">✉ Contact ✉</h3>
 <div align="center">
