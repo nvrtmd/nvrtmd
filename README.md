@@ -8,6 +8,11 @@
   
   ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9)
   
+</div>
+<div align="center">
+  
+  
+  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a>
   
 </div>
 
