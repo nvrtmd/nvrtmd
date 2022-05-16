@@ -12,7 +12,7 @@
  </div>
   
 
-  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a>
+<!--   <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
 <h4>
 😎 Interested in FE. <br /><br />
 👩🏻‍💻 Currently learning... <br /><br />
