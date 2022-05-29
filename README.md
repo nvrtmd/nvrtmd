@@ -4,18 +4,13 @@
 ### My name is YUZAMIN.
 
 <h3>🐥 I am... 🐥</h3>
-<!-- <div>
- -->
-  <p display="flex">  
+
+<p display="flex">  
   
  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crmn)](https://solved.ac/crmn)  
  
  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a>
- 
- </div>
-  
-
-<!--   <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
+   
 <h4>
 😎 Interested in FE. <br /><br />
 👩🏻‍💻 Currently learning... <br /><br />
@@ -33,9 +28,9 @@
 
 </h4>
 
-<br />
-<img src="https://profile-counter.glitch.me/nvrtmd/count.svg" alt="hit counter" align="center">
+<!-- <br /> -->
 
-<!-- </div> -->
+<img src="https://profile-counter.glitch.me/nvrtmd/count.svg" alt="hit counter" align="center" style="width: 170px;">
+
   
 
