@@ -9,7 +9,7 @@
   
  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crmn)](https://solved.ac/crmn)  
  
- <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a>
+<!--  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
    
 <h4>
 😎 Interested in FE. <br /><br />
