@@ -9,7 +9,9 @@
   
  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crmn)](https://solved.ac/crmn)  
  
-![Leetcode Stats](https://leetcard.jacoblin.cool/user8863ZS?theme=unicorn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
+
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/user8863ZS?theme=unicorn) -->
   
   
 <!--  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
