@@ -7,8 +7,10 @@
 
 <p display="flex">  
   
- ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crmn)](https://solved.ac/crmn)  
- 
+ ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) 
+  
+<!--  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=crmn)](https://solved.ac/crmn)  
+  -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/user8863ZS?theme=unicorn) -->
