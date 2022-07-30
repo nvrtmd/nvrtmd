@@ -18,13 +18,20 @@
 <!--  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
 
 <h3>🐣 Portfolio 🐣</h3>
-  <a href="https://bit.ly/3Opq2ct" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffb300?style=for-the-badge&style=flat-square&logo=Notion&logoColor=black" style="width:100px"></a>
+  <a href="https://bit.ly/3Opq2ct" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
 
 <br />
   
 <h3>👩🏻‍💻 Currently learning... </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,react,python)](https://skillicons.dev)
+<div style="display: flex;">
+</div>
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="78" height="78" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="78" height="78" /> &nbsp; <img src="https://skillicons.dev/icons?i=nodejs" style="width: 70px; height: 70px; margin-left: 130px;"/> &nbsp;<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="78" height="78" /> &nbsp; <img src="https://skillicons.dev/icons?i=styledcomponents" style="width: 70px; height: 70px; margin-left: 130px;"/> &nbsp;<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="78" height="78" /> 
+</div>
+
+
 
 <!--
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
@@ -37,7 +44,7 @@
 -->
  
 <h3>💌 Contact</h3>
-<a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/Mail-005FF9?style=flat&logo=Mail.Ru&logoColor=white&link=mmyyjjj@naver.com"/></a>  
+<a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mmyyjjj@naver.com" /></a>  
 
 <br />
 <br />
