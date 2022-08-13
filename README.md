@@ -23,7 +23,7 @@
 
 <br />
   
-<h3>👩🏻‍💻 Currently learning... </h3>
+<h3>👩🏻‍💻 Currently using... </h3>
 
 <div style="display: flex;">
 </div>
