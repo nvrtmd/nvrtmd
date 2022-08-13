@@ -1,11 +1,11 @@
 
 <h1> Hello World! 👋🏻 </h1>  
 
-<h3> My name is YUZAMIN.</h3>
+<h3> My name is YUZAMIN 🐥 </h3>
 
 
 
-<h3>🐥 I am... 🐥</h3>
+<h3>I am... 🐤</h3>
 
 <p display="flex">  
 
@@ -17,13 +17,13 @@
 <!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/user8863ZS?theme=unicorn) -->  
 <!--  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
 
-<h3>🐣 Portfolio 🐣</h3>
+<h3>Portfolio 💻</h3>
   <a href="https://bit.ly/3Opq2ct" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 
 <br />
   
-<h3>👩🏻‍💻 Currently using... </h3>
+<h3>Currently using... 👩🏻‍💻 </h3>
 
 <div style="display: flex;">
 </div>
@@ -48,13 +48,13 @@
 
 -->
  
-<h3>💌 Contact</h3>
+<h3>Contact 💌</h3>
 <a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mmyyjjj@naver.com" /></a>  
 
 <br />
 <br />
 
-<img src="https://profile-counter.glitch.me/nvrtmd/count.svg" alt="hit counter" align="center" style="width: 170px;">
-
+<!-- <img src="https://profile-counter.glitch.me/nvrtmd/count.svg" alt="hit counter" align="center" style="width: 170px;">
+ -->
   
 
