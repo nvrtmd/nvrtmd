@@ -18,7 +18,7 @@
 <!--  <a href="https://opgc.me/#/users/nvrtmd" target="_blank"><img src="https://api.opgc.me/githubs/users/nvrtmd/tag/?theme=basic" /></a> -->
 
 <h3>Portfolio 💻</h3>
-  <a href="https://bit.ly/3Opq2ct" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <a href="https://bit.ly/yuzamin-portfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 
 <br />
