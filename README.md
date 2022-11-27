@@ -15,7 +15,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
 
 <h3>Resume 📑</h3>
- <a href="https://bit.ly/resume-yuzamin" target="_blank"><img src="https://img.shields.io/badge/RESUME-ece6cc?style=for-the-badge&logo=notion&logoColor=black" />
+ <a href="https://bit.ly/minyuza-resume" target="_blank"><img src="https://img.shields.io/badge/RESUME-ece6cc?style=for-the-badge&logo=notion&logoColor=black" />
 </a>
 
 <br />
