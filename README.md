@@ -7,24 +7,21 @@
 
 <h3>I am... 🐤</h3>
 
-<p display="flex">  
-
-
- ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?generation=9) 
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
-
-<h3>Resume 📑</h3>
+<h4>Resume 📑</h3>
  <a href="https://bit.ly/minyuza-resume" target="_blank"><img src="https://img.shields.io/badge/RESUME-ece6cc?style=for-the-badge&logo=notion&logoColor=black" />
 </a>
 
 <br />
 
-<h3>Portfolio 💻</h3>
+<h4>Portfolio 💻</h3>
   <a href="https://bit.ly/yuzamin-portfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>  
 
 <br />
+
+<p display="flex">  
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvrtmd&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
   
 <h3>Currently using... 👩🏻‍💻 </h3>
 
