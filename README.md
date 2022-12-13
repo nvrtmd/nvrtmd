@@ -12,10 +12,10 @@
 
 📄 Know about my experiences 👉🏻 <a href="https://bit.ly/minyuza-resume" target="_blank"><img src="https://img.shields.io/badge/RESUME-ece6cc?style=for-the-badge&logo=notion&logoColor=black" />
 
-👨‍💻 All of my projects are available at 👉🏻 <a href="https://bit.ly/yuzamin-portfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white" />
+👨‍💻 All of my projects are available at 👉🏻 <a href="https://bit.ly/yuzamin-portfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffaa21?style=for-the-badge&logo=notion&logoColor=black" />
 </a> 
 
-📝 I regularly write articles on 👉🏻 <a href="https://velog.io/@carmine" target="_blank"><img src="https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+📝 I regularly write articles on 👉🏻 <a href="https://nvrtmd.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </a> 
 
 📫 How to reach me 👉🏻 <a href="mailto:mmyyjjj@naver.com"><img src="https://img.shields.io/badge/MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mmyyjjj@naver.com" /></a>  
