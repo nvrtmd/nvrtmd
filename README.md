@@ -24,8 +24,8 @@
 
 <h3>Currently using... 👩🏻‍💻 </h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nvrtmd&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)
-
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nvrtmd&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook)
+ -->
 <div style="display: flex; align-items: flex-start;">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="78" height="78" /> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="78" height="78" /></a> &nbsp; 
