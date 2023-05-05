@@ -10,8 +10,6 @@
 
 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Python**
 
-📄 Know about my experiences 👉🏻 <a href="https://bit.ly/minyuza-resume" target="_blank"><img src="https://img.shields.io/badge/RESUME-ece6cc?style=for-the-badge&logo=notion&logoColor=black" />
-
 👨‍💻 All of my projects are available at 👉🏻 <a href="https://nvrtmd.github.io/Frontend-Developer-%EB%AF%BC%EC%9C%A0%EC%A7%80-Portfolio" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffaa21?style=for-the-badge&logo=notion&logoColor=black" />
 </a> 
 
