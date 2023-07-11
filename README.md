@@ -4,12 +4,11 @@
 <h3 align="center">I'm yuzamin, a diligently endeavoring frontend developer 🐥</h3>
 <h4 align="center">I am really interested in personal growth, and I hope to become a member who can help grow the organization to which I belong ☺</h3>
 
-
 <h3>I am... 🐤</h3>
 
 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Python**
 
-👨‍💻 All of my projects are available at 👉🏻 <a href="https://github.com/nvrtmd/nvrtmd/files/11439467/Frontend_Developer_._portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffaa21?style=for-the-badge&logo=notion&logoColor=black" />
+👨‍💻 All of my projects are available at 👉🏻 <a href="https://github.com/nvrtmd/nvrtmd/files/12016677/Frontend_Developer_._portfolio.pdf" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-ffaa21?style=for-the-badge&logo=notion&logoColor=black" />
 </a> 
 
 📝 I regularly write articles on 👉🏻 <a href="https://nvrtmd.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
